@@ -1,0 +1,419 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    height: 400px;
+    width: 950px;
+    margin: 0 auto;
+    background:url("../img/top.png")no-repeat;
+    position: relative;
+    left: 7px;
+}
+.bili1{
+    width:180px;
+    height: 200px;
+    color: gold;
+    margin-left: 105px;
+    padding-top: 169px;
+}
+.yili{
+width: 300px;
+height: 150px;
+margin-left: 501px;
+margin-top: -238px;
+    font-size: 25px;
+    color: white;
+}
+.mingxing{
+    height: 22px;
+    width: 160px;
+    line-height: 20px;
+    background-color: white;
+    font-size: 15px;
+    margin-top: -59px;
+    margin-left: 100px;
+    color: #FF00FF;
+    text-align: center;
+}
+.daohang{
+    width: 300px;
+    height: 20px;
+    margin-left: -99px;
+    margin-top: 40px;
+    color: gold;
+}
+.zixun{
+    height: 50px;
+    width: 300px;
+    margin-left: -138px;
+    margin-top: 10px;
+}
+.bottom{
+    height: 3030px;
+    width: 930px;
+    background: url("../img/bottom.png");
+    overflow: hidden;
+    margin: 0 auto;
+}
+.daohang2{
+    color: white;
+    width: 950px;
+    height: 300px;
+    background: url("../img/daohang2.png")no-repeat;
+}
+.daohang3{
+    margin-left: 176px;
+    padding-top: 10px;
+}
+.face{
+    margin-top: -233px;
+    margin-left: 261px;
+}
+.beijing2{
+    height: 250px;
+    width: 700px;
+    background: url("../img/beijing2.png");
+    margin-left: 132px;
+    border-radius:10% 10%;
+
+}
+.left{
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+    color: white;
+    margin-left: 74px;
+    margin-top: 25px;
+    border-right: dashed 1px #e2e2e2 ;
+}
+img.liaojie1{
+    width: 248px;
+    height: 100px;
+}
+.right2{
+    height: 200px;
+    width: 250px;
+    display: inline-block;
+    margin-top: 25px;
+}
+img.meinv{
+    width: 300px;
+    height: 197px;
+}
+.wanmei{
+    margin-left: 262px;
+}
+.two{
+    height: 740px;
+     width:700px;
+    background-color: blueviolet;
+    border-radius:10% 10%;
+    margin-left: 132px;
+    background: url("../img/beijing2.png");
+    color: white;
+    font-size: 13px;
+}
+img.xin{
+    margin-left: 17px;
+    margin-top: 18px;
+}
+.buwanmei{
+    color: yellow;
+    font-size: 20px;
+}
+.lianxing{
+    height: 88px;
+    width: 300px;
+    text-align: left;
+    margin-left: 78px;
+    margin-top: -77px;
+}
+.baozhe{
+    height: 400px;
+    width: 700px;
+    border-bottom: dashed 1px #e2e2e2 ;
+}
+.三庭五眼{
+    height: 204px;
+    width: 700px;
+    text-indent: 1em;
+    font-size: 11px;
+}
+.四高{
+    height: 30px;
+    width: 500px;
+    background: url("../img/bottom.png");
+    padding-left: 10px;
+    margin-top: 5px;
+}
+.in{
+    height: 30px;
+    width: 60px;
+    background-color: yellow;
+    color: #FF00FF;
+    font-size: 15px;
+    line-height: 30px;
+    margin-top: -30px;
+}
+.sigao{
+    margin-left: 44px;
+    padding-top: 10px;
+}
+.img1{
+    height: 200px;
+    width: 1000px;
+    background: url("../img/meinv2.png")no-repeat 556px 20px;
+    margin-top: -143px;
+    margin-left: -31px;
+}
+.zhizhun{
+    padding-left: 274px;
+}
+.youshi{
+    height: 240px;
+    width: 700px;
+    background: url("../img/beijing2.png");
+    border-radius:10% 10%;
+    margin-left: 110px;
+}
+.guwen{
+    height: 30px;
+    width: 330px;
+    background-color: #FF00FF;
+}
+.biaoti{
+    height: 30px;
+    width: 50px;
+    background-color: yellow;
+    line-height: 30px;
+    margin-top: -30px;
+}
+.ziti{
+    line-height: 31px;
+    margin-left: 51px;
+    color: white;
+}
+.fen{
+    color: #FF00FF;
+}
+.step1{
+    height: 300px;
+    width: 825px;
+}
+.step2{
+    height: 105px;
+    width:330px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.wenzi{
+    color: white;
+    font-size: 13px;
+    height: 30px;
+    width: 330px;
+    margin-top: 10px;
+
+}
+.baijin{
+    margin-left: 276px;
+}
+.bitu{
+    height: 376px;
+    width: 700px;
+    background: url("../img/beijing2.png");
+    border-radius:10% 10%;
+    margin-left: 110px;
+}
+.longhui{
+    height: 200px;
+    width: 340px;
+    display: inline-block;
+}
+.longtop{
+    height: 30px;
+     width:340px;
+    background-color: #FF00FF;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+.longtop2{
+    height: 30px;
+    width:340px;
+    background-color: #FF00FF;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+.big{
+    font-size: 20px;
+    color: white;
+}
+img.long{
+    width: 340px;
+    height: 200px;
+}
+.jieshao{
+    height: 116px;
+    width: 700px;
+    border-top: dashed 1px #e2e2e2;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.zixun2{
+    text-align: center;
+    height: 20px;
+    width: 120px;
+    background-color: #FF00FF;
+    margin-top: -14px;
+    margin-left: 464px;
+    color: white;
+    font-size: 15px;
+}
+.tuandui{
+   margin-left: 263px;
+}
+.yisheng{
+    height: 250px;
+    width: 732px;
+    background: url("../img/beijing2.png");
+    border-radius:10% 10%;
+    margin-left: -154px;
+    margin-top: -5px;
+}
+.sunjie{
+     height:243px;
+     width: 349px;
+     background: url("../img/bottom.png");
+     margin-left: 10px;
+ }
+.sunjie2{
+    height:242px;
+    width: 349px;
+    background: url("../img/bottom.png");
+    margin-left: 364px;
+    margin-top: -242px;
+}
+.touxiang{
+    display: inline-block;
+}
+.wenzi2{
+    color: yellow;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 153px;
+    margin-top: -203px;
+}
+.wenzi22{
+    color: yellow;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 153px;
+    margin-top: -203px;
+}
+.wenzi3{
+    margin-left: 100px;
+    font-size: 13px;
+    color: white;
+    text-align: left;
+    height: 78px;
+    width: 200px;
+    margin-left: 150px;
+    border-bottom: dashed 1px #e2e2e2;
+    border-top: dashed 1px #e2e2e2;
+}
+.shanchang{
+    margin-left: 150px;
+    height: 78px;
+    width: 200px;
+    text-align: left;
+    font-size: 13px;
+    color: white;
+}
+.baozheng{
+    margin-left: 282px;
+}
+.dibu{
+    height: 696px;
+    width: 800px;
+    background: url("../img/beijing2.png");
+    border-radius:10% 10%;
+    margin-left: 70px;
+}
+.shangbiao{
+    height: 100px;
+    width: 784px;
+    margin-left: 10px;
+    border-bottom: dashed 1px #e2e2e2;
+}
+.shangbiao2{
+    height: 100px;
+    width: 750px;
+    margin-left: 41px;
+    border-bottom: dashed 1px #e2e2e2;
+}
+.line4{
+    border: dashed 1px #e2e2e2;
+    height: 80px;
+}
+.zixun3{
+    height: 30px;
+    width: 700px;
+    background: url("../img/saofen.png");
+    margin-left: 50px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+}
+.zixun4{
+    height: 128px;
+    width: 700px;
+    background: url("../img/bottom.png");
+    margin-left: 50px;
+    font-size: 12px;
+    color: white;
+}
+.li5{
+    float: none;
+}
+.zixun5{
+    height: 100px;
+    width: 300px;
+}
+.zixun6{
+    height: 100px;
+    width: 300px;
+    margin-left: 356px;
+    margin-top: -109px;
+}
+.time{
+    height: 110px;
+    width: 100px;
+    margin-top: -101px;
+    margin-left: 268px;
+    font-size:18px;
+}
+.time2{
+    height: 110px;
+    width: 100px;
+    margin-top: -96px;
+    margin-left: 610px;
+    font-size:18px;
+}
+.tuijian{
+    height: 30px;
+    width: 700px;
+    background: url("../img/saofen.png");
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+    line-height: 30px;
+}
+.xiangmu2{
+    margin-left: 15px;
+
+}
